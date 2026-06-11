@@ -14,7 +14,7 @@ from API_ke import API
 # ================= НАСТРОЙКИ =================
 TOKEN = API
 GROUP_ID = "239371469"  
-ADMIN_IDS = []
+ADMIN_IDS = [239371469]
 EXCEL_FILENAME = "rating.xlsx"
 # =============================================
 
